@@ -71,13 +71,13 @@ CS50P-inspired interactive quiz application built and deployed with Streamlit.
 
 ---
 
+---
 ## 📊 Domain Expertise
 
 Having spent 20 years in Banking, Financial Services, IT, and Strategy, I bring deep domain knowledge that most data science candidates lack. I understand how financial models are built, how enterprise decisions are made, and how data needs to be communicated to non-technical stakeholders.
 
 This combination of senior domain experience + technical DS skills is what I bring to every project.
 
----
 
 ## 📫 Connect with me
 
