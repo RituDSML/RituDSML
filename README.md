@@ -82,7 +82,7 @@ This combination of senior domain experience + technical DS skills is what I bri
 ## 📫 Connect with me
 
 - 🌐 Portfolio: https://ritudsml.github.io
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 💼 LinkedIn: https://www.linkedin.com/in/1el/
 - 📧 Email: oyster.ritu@gmail.com
 
 ---
