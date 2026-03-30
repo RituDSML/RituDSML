@@ -10,7 +10,7 @@ I believe the most impactful data science happens at the intersection of domain 
 
 ## 🔭 What I am currently working on
 
-- **LUMA** — An AI-powered mental health companion using NLP, LLMs, and Speech Processing *(MSc Thesis, 2026)*
+- Completing MSc Data Science thesis (2026)
 - Expanding skills in Computer Vision, Deep Learning, and Multimodal AI
 - Building toward a PhD in Multimodal Affective Computing
 
